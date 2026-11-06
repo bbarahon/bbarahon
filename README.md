@@ -69,6 +69,7 @@ I have also worked with **RDF, SPARQL, ontologies, and knowledge graphs** during
       <h3>Non-Hermitian Hamiltonians &amp; PT Symmetry</h3>
       <p><b>BSc Physics Thesis · UCM · Completed</b></p>
       <p>Investigated the mathematical foundations of <b>PT-symmetric quantum mechanics</b>, including non-Hermitian Hamiltonians, spectral properties, and the conditions under which physical interpretations remain consistent. The work connected theoretical analysis with numerical techniques.</p>
+      📄 **[Read the full thesis at Docta Complutense](https://docta.ucm.es/handle/20.500.14352/141319)**
       <p><i>Quantum mechanics · Mathematical physics · Numerical methods</i></p>
     </td>
     <td width="50%" valign="top">
