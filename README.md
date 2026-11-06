@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/BSc-Physics_%40_UCM-7C3AED?style=flat-square" alt="BSc Physics at UCM" />
   </p>
   <p>
-    <a href="mailto:bor.barahona@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:b.barahona@alumnos.upm.es"><img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/bbarahon"><img src="https://img.shields.io/badge/GitHub-bbarahon-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   </p>
 </div>
@@ -30,7 +30,7 @@ I enjoy building systems that connect **mathematical reasoning, statistical anal
 - 📈 **Applied data science:** Data cleaning, feature engineering, interpretable ML, classification, visualization, and workflow automation.
 - ⚛️ **Research interests:** Quantum computing, quantum machine learning, boson sampling, and the computational limits of physical models.
 - 🎯 **Professional focus:** Applying a rigorous quantitative background to Data Science, Machine Learning, and Data Analytics projects.
-- 📬 **Reach me:** [bor.barahona@gmail.com](mailto:bor.barahona@gmail.com).
+- 📬 **Reach me:** [b.barahona@alumnos.upm.es](mailto:b.barahona@alumnos.upm.es).
 
 ---
 
